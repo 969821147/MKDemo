@@ -1,0 +1,8 @@
+<!--wxml是编写小程序骨架的文件  -->
+<view class='container'>
+  <image class='user-chart' src="/images/chart.png"></image>
+  <text class='uesr-name'><text style="color:red">He \n llow</text>,哈哈哈</text>
+  <view class='moto-container' bindtap='onTap'>
+    <text class='moto'>开启小程序之旅</text>
+  </view>
+</view>
