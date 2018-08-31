@@ -12,9 +12,9 @@ var local_database = [{
     detail: "菊黄蟹正肥，品尝秋之味。徐志摩把“看初花的荻芦”和“到楼外楼吃蟹”并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“螯封嫩玉双双满，壳凸红脂块块香”；在《世说新语》里，晋毕卓更是感叹“右手持酒杯，左手持蟹螯，拍浮酒船中，便足了一生矣。”漫漫人生长路，美食与爱岂可辜负？于是作为一个吃货，突然也很想回味一下属于我的味蕾记忆。记忆中的秋蟹，是家人的味道，弥漫着浓浓的亲情。\n\n是谁来自山川湖海，却囿于昼夜，厨房与爱？ 是母亲，深思熟虑，聪明耐心。吃蟹前，总会拿出几件工具，煞有介事而乐此不疲。告诉我们螃蟹至寒，需要佐以姜茶以祛寒，在配备的米醋小碟里，亦添入姜丝与紫苏，前者驱寒后者增香。泡好菊花茶，岁月静好，我们静等。",
     postId: 0,
     music: {
-      url: "http://192.144.169.217:8094/music/YUI - LIFE.mp3",
+      url: "https://music-1256612431.cos.ap-beijing.myqcloud.com/music/m-1.mp3",
       title: "YUI - LIFE",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001TEc6V0kjpVC.jpg?max_age=2592000"
+      coverImg: "https://music-1256612431.cos.ap-beijing.myqcloud.com/img/m-1.jpg"
     }
   },
   {
@@ -31,9 +31,9 @@ var local_database = [{
     avatar: "/images/avatar/1.png",
     postId: 1,
     music: {
-      url: "http://192.144.169.217:8094/music/多幸运.mp3",
-      title: "多幸运",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000002xOmp62kqSic.jpg?max_age=2592000"
+      url: "https://music-1256612431.cos.ap-beijing.myqcloud.com/music/m-2.mp3",
+      title: "那英 - 一眼千年",
+      coverImg: "https://music-1256612431.cos.ap-beijing.myqcloud.com/img/m-2.jpg"
     }
   },
   {
@@ -51,9 +51,9 @@ var local_database = [{
     avatar: "/images/avatar/3.png",
     postId: 2,
     music: {
-      url: "http://192.144.169.217:8094/music/那英 - 一眼千年.mp3",
-      title: "那英 - 一眼千年",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004Wv5BO30pPc0.jpg?max_age=2592000"
+      url: "https://music-1256612431.cos.ap-beijing.myqcloud.com/music/m-3.mp3",
+      title: "西瓜JUN - 起风了（Cover 高橋優）",
+      coverImg: "https://music-1256612431.cos.ap-beijing.myqcloud.com/img/m-3.jpg"
     }
   },
   {
@@ -70,9 +70,9 @@ var local_database = [{
     avatar: "/images/avatar/5.png",
     postId: 3,
     music: {
-      url: "http://192.144.169.217:8094/music/漆柚 - 呼救（Cover 心华）.mp3",
-      title: "漆柚 - 呼救（Cover 心华）",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000001VaXQX1Z1Imq.jpg?max_age=2592000",
+      url: "https://music-1256612431.cos.ap-beijing.myqcloud.com/music/m-4.mp3",
+      title: "周汇洋 - 西海情歌-合唱版（Cover 降央卓玛）",
+      coverImg: "https://music-1256612431.cos.ap-beijing.myqcloud.com/img/m-4.jpg",
     }
   },
   {
@@ -89,9 +89,9 @@ var local_database = [{
     avatar: "../../../images/avatar/3.png",
     postId: 4,
     music: {
-      url: "http://192.144.169.217:8094/music/西瓜JUN - 起风了（Cover 高橋優）.mp3",
-      title: "西瓜JUN - 起风了（Cover 高橋優）",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000003at0mJ2YrR2H.jpg?max_age=2592000"
+      url: "https://music-1256612431.cos.ap-beijing.myqcloud.com/music/m-5.mp3",
+      title: "山有木系 - 橙光《人鱼传说之长生烛》主题曲",
+      coverImg: "https://music-1256612431.cos.ap-beijing.myqcloud.com/img/m-5.jpg"
     }
   },
   {
@@ -108,9 +108,9 @@ var local_database = [{
     avatar: "../../../images/avatar/5.png",
     postId: 5,
     music: {
-      url: "http://192.144.169.217:8094/music/周汇洋 - 西海情歌-合唱版（Cover 降央卓玛）.mp3",
-      title: "周汇洋 - 西海情歌-合唱版（Cover 降央卓玛）",
-      coverImg: "http://y.gtimg.cn/music/photo_new/T002R150x150M000004eGsCN3SUheO.jpg?max_age=2592000"
+      url: "https://music-1256612431.cos.ap-beijing.myqcloud.com/music/m-6.mp3",
+      title: "漆柚 - 呼救（Cover 心华）",
+      coverImg: "https://music-1256612431.cos.ap-beijing.myqcloud.com/img/m-6.jpg"
     }
   },
 ]
