@@ -23,7 +23,7 @@
       {
         "pagePath": "pages/posts/posts",
         "text": "阅读",
-        "iconPath":"/images/tab/yuedu.png",
+        "iconPath": "/images/tab/yuedu.png",
         "selectedIconPath": "/images/tab/yuedu_hl.png"
       },
       {
@@ -33,6 +33,6 @@
         "selectedIconPath": "/images/tab/dianying_hl.png"
       }
     ]
-  }
-
+  },
+  "sitemapLocation": "sitemap.json"
 }
