@@ -25,7 +25,11 @@ Page({
       this.setData({
         movie: movie
       })
+
+      console.log("--------------------")
+      console.log(this.data.movie)
     })
+
   },
 
   /*查看图片*/
